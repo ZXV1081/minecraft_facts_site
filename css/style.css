@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+.frame_title {
+    border: 5px solid yellow;
+    margin: 0 auto;
+    padding: 10px;
+    height: 160px;
+    width: 1000px;
+    border-radius: 15px;
+}
+
+.frame {
+    text-align: left;
+    border: 5px solid yellow;
+    padding-left: 100%;
+    display: inline-block;
+    margin-top: 50px;
+    padding: 10px;
+    height: 150px;
+    width: 1000px;
+    border-radius: 15px;
+}
+
+.site-footer {
+    text-align: left;    
+    border: 2px solid #333;
+    padding: 20px;
+    margin-top: 100px;
+    text-align: center;
+    background-color: #605c5c;   /* Цвет заливки (светло-серый) */
+    color: #000;  
+}
